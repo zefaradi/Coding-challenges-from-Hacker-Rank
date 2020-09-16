@@ -10,7 +10,6 @@
 
 def solve(s):
     name = s.split(' ')
-    # return(' '.join(word.capitalize() for word in name))
     if name[0][0].isupper() == False:
         first_name = list(name[0])
         a = first_name[0]
