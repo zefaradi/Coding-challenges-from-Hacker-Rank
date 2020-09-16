@@ -11,11 +11,10 @@
 # character c.
 
 # Sample Input
-
 # abracadabra
 # 5 k
-# Sample Output
- 
+
+# Sample Output 
 # abrackdabra
 
 def mutate_string(string, position, character):
